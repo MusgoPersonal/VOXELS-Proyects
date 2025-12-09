@@ -1,0 +1,5 @@
+{
+  "name": "VoxelVerse Architect",
+  "description": "Un espacio de trabajo 3D estilo voxel art impulsado por IA. Construye, diseña y colabora con un Arquitecto Gemini para generar estructuras.",
+  "requestFramePermissions": []
+}
